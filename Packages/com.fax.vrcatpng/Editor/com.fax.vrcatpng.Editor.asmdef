@@ -1,0 +1,14 @@
+{
+  "name": "com.fax.vrcatpng.Editor",
+  "references": [
+    "com.fax.vrcatpng"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}
